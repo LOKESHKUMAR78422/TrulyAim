@@ -1,5 +1,1 @@
-Host: www
-Type: CNAME
-Value: your-github-username.github.io
-TTL: Automatic
-www.trulyaim.com
+trulyaim_solutions.in
